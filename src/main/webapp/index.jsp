@@ -60,9 +60,10 @@
 
     <nav>
         <a href="#">Home</a>
-        <a href="/about">About</a>
-        <a href="/services">Services</a>
-        <a href="/contact">Contact</a>
+        <a href="about.html">About</a>
+        <a href="/services.html">Services</a>
+        <a href="/contact.html">Contact</a>
+    	<a href="admin.html">admin</a>
     </nav>
 
     <section>
