@@ -67,7 +67,7 @@
 
     <section>
         <h2>Welcome to Your Website</h2>
-        <p>This is a simple and clean HTML template. You can replace this content with your own.</p>
+        <p>This is an admin page.</p>
     </section>
 
     <footer>
