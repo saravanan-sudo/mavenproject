@@ -60,10 +60,10 @@
 
     <nav>
         <a href="#">Home</a>
-        <a href="about.html">About</a>
-        <a href="/services.html">Services</a>
-        <a href="/contact.html">Contact</a>
-    	<a href="admin.html">admin</a>
+        <a href="about.jsp">About</a>
+        <a href="/services.jsp">Services</a>
+        <a href="/contact.jsp">Contact</a>
+    	<a href="admin.jsp">admin</a>
     </nav>
 
     <section>
