@@ -69,7 +69,7 @@
     <section>
         <h1>This website is deployed in 3.109.54.159 - Production Server</h1>
         <h2>Welcome to Your Website</h2>
-        <p>This is a simple and clean HTML template. You can replace this content with your own.</p>
+        <p>This is done by Jenkins pipeline functionality.</p>
     </section>
 
     <footer>
