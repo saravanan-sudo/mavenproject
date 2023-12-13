@@ -68,7 +68,7 @@
 
     <section>
         <h1>This website is deployed in 3.109.54.159 - Production Server</h1>
-        <h2>Welcome to Your Website</h2>
+        <h2>Welcome to Your Jenkins Project</h2>
         <p>This is done by Jenkins pipeline functionality.</p>
     </section>
 
