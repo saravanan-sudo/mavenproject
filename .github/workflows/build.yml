@@ -33,4 +33,4 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-        run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
+        run: mvn clean install sonar:sonar -Dsonar.host.url=http://13.235.244.164:9095/sonar -Dsonar.projectKey=mavensample -Dsonar.login=admin -Dsonar.password=admin -X
